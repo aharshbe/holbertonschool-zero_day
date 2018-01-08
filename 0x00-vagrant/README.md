@@ -1,5 +1,6 @@
 #Vagrant
-####This program directory is to show completion of the 0x00 Vagrant lesson.
+
+#This program directory is to show completion of the 0x00 Vagrant lesson.
 
 In this lesson I learnd:
 
