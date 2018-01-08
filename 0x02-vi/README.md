@@ -12,3 +12,4 @@ In this lesson I learned:
 *  Undo
 *  Quitting
  
+#### All commands found [here](https://www.cs.colostate.edu/helpdocs/vi.html).
